@@ -1,0 +1,8 @@
+Instrucciones para ejecutar el programa:
+
+1: Dar permisos de ejecucion a todos los shells
+2: ejecutar el shell prepara.sh enviandole como parametro $1: el nombre del archivo de configuracion
+                                                          $2: el tiempo en milisegundos que quiere que verifique si encender o apagar la alarma
+                                                          $3: la velocidad de generacion de datos para los procesos sensores
+                                                        
+3: ejecutar ./proyectoSO_SAT sin parametros
